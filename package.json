@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Whaitiri/Twitter-API/issues"
   },
-  "homepage": "https://github.com/Whaitiri/Twitter-API#readme"
+  "homepage": "https://github.com/Whaitiri/Twitter-API#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
 }
