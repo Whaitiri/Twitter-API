@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/Whaitiri/Twitter-API#readme",
   "dependencies": {
-    "express": "^4.15.4"
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "twit": "^2.2.9"
   }
 }
